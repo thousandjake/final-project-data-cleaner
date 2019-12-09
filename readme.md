@@ -1,8 +1,6 @@
 
 ### Project Description
-
 This is a node script I wrote to clean up data from the publicly available History of Hearthstone dataset (https://www.kaggle.com/romainvincent/history-of-hearthstone).
-
 The node script also adds the following features onto the dataset...
     - mana_cost_zero: a count of the cards in the deck with mana cost zero,
     - mana_cost_one: a count of the cards in the deck with mana cost one,
